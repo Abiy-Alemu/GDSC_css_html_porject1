@@ -53,13 +53,12 @@ hr {
     align-items: center;
     justify-content: center;
     gap: 10px;
-    padding-right: 80px;
+    padding-right: 200px;
 }
 
 .profile-img {
-    width: 100px;
-    height: 100px;
-    
+    width: 80px;
+    height: 80px;
     border-radius: 50%;
     border: 5px solid white;
 }
